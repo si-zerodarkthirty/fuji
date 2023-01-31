@@ -1,0 +1,1 @@
+import{a as e,b as o,o as t,e as s}from"./entry.e71ca96b.js";const a={},c=s("h1",null,"会社概要",-1),n=[c];function r(_,d,l,p,i,u){return t(),o("div",null,n)}const h=e(a,[["render",r]]);export{h as default};

@@ -1,0 +1,1 @@
+import{a as e,b as o,o as t,e as s}from"./entry.e71ca96b.js";const n={},c=s("h1",null,"トップページ",-1),a=[c];function r(_,d,i,l,p,f){return t(),o("div",null,a)}const h=e(n,[["render",r]]);export{h as default};
